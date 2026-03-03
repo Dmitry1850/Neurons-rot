@@ -1,0 +1,19 @@
+# Виртуальное окружение
+venv/
+env/
+ENV/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+
+# IDE
+.vscode/
+.idea/
+
+# Другое
+.DS_Store
+*.log
