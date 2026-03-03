@@ -1,19 +1,17 @@
-# Виртуальное окружение
+# Виртуальные окружения
 venv/
-env/
-ENV/
-.venv/
+dnnlab/
 
-# Python
+# Файлы Python
 __pycache__/
-*.py[cod]
-*.so
-.Python
+*.pyc
+*.pyo
+*.pyd
 
 # IDE
 .vscode/
 .idea/
 
-# Другое
+# Системные файлы
 .DS_Store
-*.log
+Thumbs.db
